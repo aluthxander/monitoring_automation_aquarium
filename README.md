@@ -11,3 +11,5 @@ and the actuators used are as follows:
 1. SG90 Servo
 2. 2-channel Relay
 3. DS1307 RTC.
+## the wiring diagram is as follows:
+![sket_wiring_akuarium_2](https://github.com/aluthxander/monitoring_automation_aquarium/assets/87218279/391e6bf2-ef8b-4720-a7c1-bc8ff019a0b4)
